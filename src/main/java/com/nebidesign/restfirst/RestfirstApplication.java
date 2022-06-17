@@ -13,18 +13,6 @@ public class RestfirstApplication {
 
     public static void main(String[] args) {
 
-        // her gun seher 5 int random olaraq veren bir dene xidmet duzelt
-
-        // domain design
-
-        // random number
-
-        // localhost: 9001 9002 9003 // rest / v1 /
-
-        // localhost:9001/rest/v1 GET
-
-        // 5 int cavab json
-
         SpringApplication.run(RestfirstApplication.class, args);
 
     }
